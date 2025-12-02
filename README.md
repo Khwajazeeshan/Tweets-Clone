@@ -47,8 +47,8 @@ Follow these steps to get the project running locally on your machine.
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/Khwajazeeshan/Twitter-Clone--Sigma-Web-Development-Project-.git
-    cd Twitter-Clone--Sigma-Web-Development-Project-
+    git clone https://github.com/Khwajazeeshan/Twitter-Clone/-.git
+    cd Twitter-Clone
     ```
 
 2.  **Install dependencies**:
