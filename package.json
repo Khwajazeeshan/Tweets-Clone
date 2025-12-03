@@ -1,14 +1,7 @@
 {
-  "name": "new-folder",
+  "name": "tweets-clone",
   "version": "1.0.0",
-  "main": "tailwind.config.js",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  },
+  "scripts": {},
   "dependencies": {},
-  "devDependencies": {
-    "tailwindcss": "^3.4.14",
-    "vite": "^5.4.10"
-  }
+  "devDependencies": {}
 }
